@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mihir Gupta</h1>
 <h3 align="center">18 year old full stack developer who loves to use code to solve problems</h3>
 
--   🔭 I’m currently working on [Magic Read](https://github.com/Code-Dabblers/magic-read-FE)
-
 -   🌱 I’m currently learning **Typescript, React Native, GraphQL**
 
 -   💬 Ask me about **React, Javascript, Node**
