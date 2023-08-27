@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mihir Gupta</h1>
 <h3 align="center">I'm a full stack developer and the CTO of <a href='https://coinvise.co'>Coinvise</a> </h3>
 
-- 🌱 I’m currently learning **Unreal Engine and Ethereum development and it's scalable solutions**
+- 🌱 I’m currently learning about Rust and Distributed Systems Design
 
-- 💬 Ask me about **React, Typescript, Node, Ethereum, Unreal Engine**
-
-- 📫 How to reach me **mihirgupta0900@gmail.com**
+- 📫 How to reach me **hello@mihirg.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
